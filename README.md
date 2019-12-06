@@ -1,3 +1,3 @@
 # Bot_Discord
 Bot Discord 
-By: Dex
+By: Dex 
